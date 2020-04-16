@@ -1,1 +1,2 @@
 # res
+for publish resource
